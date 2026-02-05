@@ -1,3 +1,3 @@
 # real-developer
 this is my first reposittory
-author-Kumari Nidhi Ray 
+<i><tyle="olor:pink;font-size:50px">author-Kumari Nidhi Ray </i>
